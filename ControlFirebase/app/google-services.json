@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "345595019406",
+    "firebase_url": "https://quantdh-a1a95.firebaseio.com",
+    "project_id": "quantdh-a1a95",
+    "storage_bucket": "quantdh-a1a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345595019406:android:f87c700896c5434c",
+        "android_client_info": {
+          "package_name": "com.cdt.dut.controldata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345595019406-s8hk9ac5vcabpuqds4t3931a1t9vjs9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDItkycsYTDgrdCkbYLscaWDYCv1MDb9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
